@@ -53,6 +53,19 @@ I'm a dedicated Computer Science student with a passion for building clean, impa
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🎮 Tic Tac Toe Game](https://github.com/zahra225) | Two-player console game with win/tie detection and game state management | `C++` |
+| [🏫 University Department Website](https://github.com/zahra225) | Responsive multi-page site — faculty profiles, programs, and events | `HTML` `CSS` `JS` |
+| [🛒 Minimart Website](https://github.com/zahra225) | E-commerce app with cart simulation and localStorage persistence | `HTML` `CSS` `JS` |
+| [✈️ Airline Reservation System](https://github.com/zahra225) | OOP-based flight booking, cancellation, and passenger management | `Python` |
+| [📱 Social Media Platform](https://github.com/zahra225) | Desktop GUI with profiles, posts, friend requests, and feed | `Java` `Swing` |
+
+---
 
 ### 📊 GitHub Stats
 
