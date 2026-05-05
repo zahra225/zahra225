@@ -23,7 +23,7 @@
 
 I'm a dedicated Computer Science student with a passion for building clean, impactful digital solutions. I enjoy exploring web development, object-oriented design, and database systems — and I'm always looking for opportunities to sharpen my skills through real-world projects.
 
-- 🎓 Currently in my **2nd year** of BS Computer Science
+- 🎓 Currently in my **3rd year** of BS Computer Science
 - 💻 Building projects in **C++, Python, Java, and JavaScript**
 - 🌱 Currently deepening knowledge in **full-stack web development**
 - 🤝 Open to **internships, collaborations, and open-source contributions**
