@@ -56,23 +56,6 @@ I'm a dedicated Computer Science student with a passion for building clean, impa
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zahra225&show_icons=true&theme=github_dark&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=9aa3b5&bg_color=0d1117&border_radius=10" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahra225&layout=compact&theme=github_dark&hide_border=true&title_color=c9a84c&text_color=9aa3b5&bg_color=0d1117&border_radius=10" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=zahra225&theme=github-dark-blue&hide_border=true&stroke=0d1117&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&border_radius=10" />
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
