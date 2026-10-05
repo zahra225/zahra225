@@ -76,4 +76,3 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
 *"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
-give me like this 
